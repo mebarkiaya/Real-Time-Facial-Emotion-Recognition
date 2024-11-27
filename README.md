@@ -1,4 +1,4 @@
-Real Time Facial Emotion Recognition
+# Real-Time-Facial-Emotion-Recognition
 
 Description
 This project implements a real-time facial emotion recognition system. 
