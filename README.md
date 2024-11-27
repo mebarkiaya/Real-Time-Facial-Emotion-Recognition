@@ -1,7 +1,7 @@
 # Real Time Facial Emotion Recognition
 
 # Description
-This project implements a real-time facial emotion recognition system. 
+This project implements a real-time facial emotion recognition system. \n
 It uses deep learning techniques to classify emotions such as happiness, sadness, anger, and neutrality. 
 The system is built with the FER-2013 dataset and frameworks like TensorFlow, Keras, and OpenCV.
 
